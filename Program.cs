@@ -19,7 +19,7 @@ namespace Methods
             }//end of try
             catch
             {
-                Console.WriteLine("P=");
+                Console.WriteLine("You have an error");
             } //end of catch
 
         }//end of method 1
