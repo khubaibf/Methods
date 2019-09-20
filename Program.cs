@@ -22,12 +22,12 @@ namespace Methods
                 Console.WriteLine("You have an error");
             } //end of catch
 
-        }//end of method 1
+        }
 
         static void FullName(string name)
 
         {
-            Console.WriteLine("Hello " + name + " Have a beautiful day :)" );
+            Console.WriteLine("Hello " + name + ", Have a beautiful day! :)" );
             Console.ReadKey(true);
         }
     }
